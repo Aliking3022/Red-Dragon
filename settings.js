@@ -3,12 +3,12 @@ const chalk = require('chalk')
 
 //Api Website\\
 global.APIs = {
-	zenz: 'https://zenzapis.xyz',
+	zenz: 'https://aliking.xyz',
 }
 
 //Api Key\\
 global.APIKeys = {
-	'https://zenzapis.xyz': 'your key',
+	'https://aliking.xyz': 'your key',
 }
 
 global.alivemsg = `📤I am alive now😇
@@ -29,32 +29,33 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] //ur owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" //ur owner name
+global.vcardowner = ['+923252752761'] //ur owner number
+global.ownername = "😎Ali King✓®®✓✓" //ur owner name
 global.ytname = "" //ur yt chanel name
-global.socialm = "GitHub: prabhasha2006" //ur github or insta name
+global.socialm = "GitHub: https://chat.whatsapp.com/LcuFKx1vlu8LIofBOU3ML0" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot body 
-global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
+global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://www.linkpicture.com/q/1659445400858.jpg. < 1 MB
 
 global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
 
 global.callblock === "false" // call block "true" / "false" (CALL ගන්න අය block කිරීමට "true")
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //ur tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
+global.owner = ['+923252752761']
+		
+global.ownertag = '+923252752761' //ur tag number by ali king
+global.botname = 'ALI KING - ALI KING✓' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
+global.author = "ALI KING╺ official group" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //In list menu
 
-global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://github.com/prabhasha2006' //Change Your Button's URL
+global.button = '☰ @ALI KING OFFICIAL ☰' //Costomize A Button Name In Alive Message
+global.btnurl = 'MY OFFICIAL GROUP https://chat.whatsapp.com/LcuFKx1vlu8LIofBOU3ML0' //Change Your Button's URL
 
 //damtabase
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium = ['+923252752761'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
